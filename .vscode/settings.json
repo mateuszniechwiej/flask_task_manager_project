@@ -23,4 +23,7 @@
    "workbench.colorTheme": "One Dark Pro",
 "editor.defaultFormatter": "HookyQR.beautify",
 "editor.autoSave": "off",
+"[python]": {
+   "editor.defaultFormatter": "ms-python.python"
+},
 }
